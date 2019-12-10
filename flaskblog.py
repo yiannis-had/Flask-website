@@ -15,7 +15,7 @@ posts = [
         'author': 'Yiannis Hadjicharalambous',
         'title': 'Blog Post 2',
         'content': 'Second post content',
-        'date_posted': 'October 10, 2019'
+        'date_posted': 'October 11, 2019'
     }
 ]
 
