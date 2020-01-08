@@ -10,13 +10,7 @@ posts = [
         "title": "Blog Post 1",
         "content": "First post content",
         "date_posted": "October 9, 2019",
-    },
-    {
-        "author": "Yiannis Hadjicharalambous",
-        "title": "Blog Post 2",
-        "content": "Second post content",
-        "date_posted": "October 11, 2019",
-    },
+    }
 ]
 
 @app.route("/")
