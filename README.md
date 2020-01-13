@@ -1,1 +1,1 @@
-# Personal Flask website project
+# Personal Flask blog project
