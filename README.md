@@ -1,3 +1,3 @@
-# Personal Flask blog project
+# Personal Flask blog
 
 ## http://yiannis-had.herokuapp.com/
